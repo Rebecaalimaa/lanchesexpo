@@ -1,7 +1,8 @@
 # Lanches👋
+- Rebecaalimaa e thamyeS
 - Aplicativo de estudo **Lista** e **detalhes**
 - React Native + Expo
-![ScreeShot](./assets/images/tela1.png)
+![ScreeShot](./assets/images/tela1.png)<br>
 ![ScreeShot](./assets/images/tela2.png)
 ## Passos para executar
 
