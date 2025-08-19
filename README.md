@@ -1,5 +1,6 @@
 # Lanches👋
-- Rebecaalimaa e thamyeS
+  
+## Dupla Rebecaalimaa e thamyeS
 - Aplicativo de estudo **Lista** e **detalhes**
 - React Native + Expo
   
