@@ -1,6 +1,6 @@
 # Lanches👋
   
-## Dupla Rebecaalimaa e thamyeS
+## Dupla Rebeca Lima e Thamye Correa
 - Aplicativo de estudo **Lista** e **detalhes**
 - React Native + Expo
   
