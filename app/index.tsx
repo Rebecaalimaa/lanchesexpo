@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "rgba(235, 182, 217, 1)",
+    backgroundColor: "#fff0f5",
   },
   list: {
     width: "100%",
